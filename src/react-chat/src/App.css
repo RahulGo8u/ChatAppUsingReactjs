@@ -21,8 +21,8 @@ input {
 .App {
   width: 100%;
   min-height: 100vh;
-  background-color: #1c2c4c;
-  color: #4c768d;
+  background-color: #ffffff;
+  color: #06000a;
   padding-top: 60px;
 }
 
@@ -32,8 +32,8 @@ input {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #4c768d;
-  color: #242443;
+  background-color: #000000;
+  color: #ffffff;
   height: 60px;
   position: fixed;
   left: 0;
@@ -63,7 +63,7 @@ input {
   padding: 30px;
   text-align: center;
   margin-top: 40px;
-  color: #7cc5d9;
+  color: #030303;
 }
 .welcome :is(h2, p, img) {
   margin-bottom: 20px;
